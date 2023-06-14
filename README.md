@@ -1,5 +1,6 @@
 <div align ="center">
-  <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/31b39e92-de23-45fc-9a2e-74a86bfae045" width = "500px"/>
+  <img src="![BlackCatCompany](https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/9661b7d1-69ad-4c05-8574-708bff520d7b)
+" width = "500px"/>
   </div>
 
 <h3 align = "center">
