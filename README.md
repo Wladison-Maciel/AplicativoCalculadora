@@ -46,7 +46,11 @@
     <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/999e5af2-30d3-446f-91dd-cf9f5ca21809" width = "450px"/>
     </div>
    <div align = "center">
-  <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/999e5af2-30d3-446f-91dd-cf9f5ca21809" width = "450px"/>
+  <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/2e83d344-ab63-44fc-87e5-6bd395f0cdff" width = "450px"/>
+  </div>
+  
+  <div align = "center">
+  <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/ff9939f6-c760-4ca1-a575-b5495303db1a" width = "450px" />
   </div>
 
 # 📈Fluxograma:
