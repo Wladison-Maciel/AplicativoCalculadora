@@ -70,6 +70,10 @@
 
 # 📈Fluxograma:
 
+<div align ="center">
+  <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/ca4dde1e-e091-4702-9b96-7f662db79af9" width = "1000px" heigth = "400px"/>
+  </div>
+
 # 🤝Equipe:
 
 ### <a title = "Você será direcionado ao perfil de Pedrofarley7" href = "https://github.com//Pedrofarley7" >Pedrofarley7</a><br>
