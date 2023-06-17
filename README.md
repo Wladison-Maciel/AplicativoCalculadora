@@ -57,13 +57,15 @@
    ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 # 📷Imagens do App:
-  <div align = "center">
+<div>
+  <a align = "left">
     <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/59755c72-becf-4752-b383-2ad01b0764a6" width = "450px"/>
-    </div>
-   <div align = "center">
-  <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/1b8191ba-ce78-4ed4-bdab-2afbb9556d19" width = "450px"/>
-  </div>
-  
+  </a>
+  <a align = "right">
+    <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/1b8191ba-ce78-4ed4-bdab-2afbb9556d19" width = "450px"/>
+  </a>
+</div>
+
   <div align = "center">
   <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/d664840b-47ad-4049-b412-85fac62a86e9" width = "450px" />
   </div>
