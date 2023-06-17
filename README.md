@@ -103,12 +103,13 @@
 </h3>
 </div>
 
+
 ### <a title = "Você será direcionado ao perfil de Wladison-Maciel" href = "https://github.com//Wladison-Maciel" >Wladison-Maciel</a><br>
 
 <div>
   <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/a502dceb-6fce-4ca6-ae68-62c0ed956889" height = "300px" />
 </div>
-<h3 align>
+<h3>
   Implementou a "Calculadora de IMC" e a "Tela de Ajuda", junto a ela criou a barra de menu com suas devidas funções e por fim concebeu uma facilidade no uso do app com diversas features de movimentação por teclas. </h3><br>
 
 
