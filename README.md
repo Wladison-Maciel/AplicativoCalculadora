@@ -85,12 +85,21 @@
   </div>
    
 ### <a title = "Você será direcionado ao perfil de Gerdson28" href = "https://github.com//Gerdson28" >Gerdson28</a><br>
-<h3 align = "start">
-  Responsável pela documentação do código e a assistência na criação do fluxograma, junto a isso ajudou na confecção de ideías para todo o projeto e publicidade. </h3><br>
-  
+<div>
+<img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/67bbd6fc-6f0c-4174-80b7-b2023dd50350" height = "300px" /> 
+  <h3>
+  Responsável pela documentação do código e a assistência na criação do fluxograma, junto a isso ajudou na confecção de ideías para todo o projeto e publicidade.
+  </h3>
+</div>
+
 ### <a title = "Você será direcionado ao perfil de nicolasnk11" href = "https://github.com//nicolasnk11" >nicolasnk11</a><br>
-<h3 align = "start">
-  Criou e atualizou toda a parte do Design do projeto, produziu a "Calculadora" e auxiliou na ajuda da criação do app, por fim, concluiu o sistema de "Login" e "Cadastro" utilizando um DataBase. </h3><br>
+
+<div>
+  <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/e91b26c3-78a8-4688-bd62-d24434b81652" height = "300px"/>
+  <h3>
+  Criou e atualizou toda a parte do Design do projeto, produziu a "Calculadora" e auxiliou na ajuda da criação do app, por fim, concluiu o sistema de "Login" e "Cadastro" utilizando um DataBase. 
+</h3>
+</div>
 
 ### <a title = "Você será direcionado ao perfil de Wladison-Maciel" href = "https://github.com//Wladison-Maciel" >Wladison-Maciel</a><br>
 <h3 align = "start">
