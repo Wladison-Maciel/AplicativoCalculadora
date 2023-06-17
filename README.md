@@ -77,8 +77,12 @@
 # 🤝Equipe:
 
 ### <a title = "Você será direcionado ao perfil de Pedrofarley7" href = "https://github.com//Pedrofarley7" >Pedrofarley7</a><br>
- <h3 align = "start">
-   Assistente de ideias, auxiliou na criação de diversas funções sendo uma delas o fluxograma e a implementação de duas funcionalidades, a "Calculadora de Velocidade média" e também o "Conversor de temperatura". </h3><br>
+<div>
+  <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/df7c85ed-794b-4600-a7a7-c8574a615bde" height = "300px"/>
+  <h3>
+    Assistente de ideias, auxiliou na criação de diversas funções sendo uma delas o fluxograma e a implementação de duas funcionalidades, a "Calculadora de Velocidade média" e também o "Conversor de temperatura". 
+  </h3>
+  </div>
    
 ### <a title = "Você será direcionado ao perfil de Gerdson28" href = "https://github.com//Gerdson28" >Gerdson28</a><br>
 <h3 align = "start">
