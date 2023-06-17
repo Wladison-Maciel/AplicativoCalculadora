@@ -33,7 +33,7 @@
   Com o trabalho feito em equipe, o projeto foi criando suas raizes em pouco tempo e praticamente estava finalizado, entretanto houve diversas mudanças onde o projeto foi melhorando a cada semana, com isso o projeto passou da versão: 1.0 < 2.0 < 3.0 onde a ultima atualização foi feita para polir o programa e dar mais acessibilidade e melhora na experiência do usuário.
   </h3>
 
-## Features:
+# 💡Features:
 
 * [x] Cadastro
 * [x] Login
