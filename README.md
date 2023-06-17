@@ -61,7 +61,7 @@
     <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/59755c72-becf-4752-b383-2ad01b0764a6" width = "450px"/>
     </div>
    <div align = "center">
-  <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/2e83d344-ab63-44fc-87e5-6bd395f0cdff" width = "450px"/>
+  <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/1b8191ba-ce78-4ed4-bdab-2afbb9556d19" width = "450px"/>
   </div>
   
   <div align = "center">
