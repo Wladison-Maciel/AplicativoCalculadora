@@ -65,7 +65,7 @@
   </div>
   
   <div align = "center">
-  <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/ff9939f6-c760-4ca1-a575-b5495303db1a" width = "450px" />
+  <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/d664840b-47ad-4049-b412-85fac62a86e9" width = "450px" />
   </div>
 
 # 📈Fluxograma:
