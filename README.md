@@ -17,17 +17,6 @@
 * [Fluxograma](#Fluxograma)
 * [Equipe](#Equipe)
 
- 
- <p align = "center">
-  <a href="#Sobre">Sobre</a> |
-  <a href="#Ferramentas-Utilizadas">Ferramentas Utilizadas</a> |
-  <a href="#Linguagem">Linguagem</a> |
-  <a href="#Imagens-do-App">Imagens do App</a> |
-  <a href="#Fluxograma">Fluxograma</a> |
-  <a href="#Equipe">Equipe</a>
-    </p
-<br>
-
 # Sobre:
   
 <h3>
