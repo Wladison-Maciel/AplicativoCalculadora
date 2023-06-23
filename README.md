@@ -77,7 +77,7 @@
 
 # 📈Diagrama:
 <div>
-  <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/ff60577b-02bc-48de-a9e9-8ce4565386fe" width = "1000px" heigth = "400px">
+  <img src="https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/3e06ff4d-8137-4e36-916a-3d049ebddd81" width = "1000px" heigth = "400px">
 </div>
 
 # 🤝Equipe:
