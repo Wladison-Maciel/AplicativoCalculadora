@@ -3,12 +3,8 @@
   </div>
 
 <h3 align = "center">
-  🚧 Projeto em Construção 🚧
+   💯 Projeto em Finalizado 💯
   </h3><br>
-<h3 align = "center">
- 😉 atualizações toda semana 😉
-  </h3><br>
-
 
 * [Sobre](#Sobre)
 * [Features](#Features)
