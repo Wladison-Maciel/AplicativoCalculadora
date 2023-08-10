@@ -11,6 +11,7 @@
 * [Ferramentas Utilizadas](#Ferramentas-Utilizadas)
 * [Linguagem](#Linguagem)
 * [Imagens do App](#Imagens-do-App)
+* [Video do App](#Video-do-App)
 * [Fluxograma](#Fluxograma)
 * [Diagrama](#Diagrama)
 * [Equipe](#Equipe)
@@ -64,6 +65,16 @@
   <div align = "center">
   <img src = "https://github.com/Wladison-Maciel/AplicativoCalculadora/assets/125041870/d664840b-47ad-4049-b412-85fac62a86e9" width = "400px" />
   </div>
+
+# 🎥 Video do App:
+
+<h3 align = "center">
+  No link abaixo você encontrará um video rápido e completo sobre o nosso aplicativo 🤩
+
+  https://youtu.be/j42fxdKyGcQ
+
+  ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+</h3>
 
 # 📈Fluxograma:
 
